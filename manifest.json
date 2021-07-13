@@ -1,0 +1,26 @@
+{
+	"author": "AgniPro",
+	"name": "LearnGraduation",
+	"short_name": "LearnGraduation",
+	"description": "Here You will get all the required learning materials of graduation .In whatever subject you want",
+	"orientation": "portrait",
+	"start_url": "https://learngraduation.blogspot.com/",
+	"scope": "https://learngraduation.blogspot.com/",
+	"display": "standalone",
+	"background_color": "grey",
+	"theme_color": "#ff0040",
+	"icons": [
+		{
+			"src": "https://1.bp.blogspot.com/-tdKcjuPBzzk/YKO4BVVNIFI/AAAAAAAACXM/ZcW2I4Pr_701MB4J-4HDj8p9uo56Srn8gCLcBGAsYHQ/s250/learngraduationlogo.webp",
+			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+			"type": "image/webp"
+		}
+	],
+	"manifest_version": 2,
+	"version": "0.1",
+	"applications": {
+		"gecko": {
+			"id": "agniprotech@gmail.com"
+		}
+	}
+}
