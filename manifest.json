@@ -11,9 +11,9 @@
 	"theme_color": "#ff0040",
 	"icons": [
 		{
-			"src": "https://1.bp.blogspot.com/-tdKcjuPBzzk/YKO4BVVNIFI/AAAAAAAACXM/ZcW2I4Pr_701MB4J-4HDj8p9uo56Srn8gCLcBGAsYHQ/s250/learngraduationlogo.webp",
+			"src": "https://1.bp.blogspot.com/-1QbuCkPSD0o/YPAlJlLIAYI/AAAAAAAACrE/7i4J1SDiqHc2S8c-zjOtmuQQS6jdW7VWgCLcBGAsYHQ/s250/learngraduationlogo.png",
 			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
-			"type": "image/webp"
+			"type": "image/png"
 		}
 	],
 	"manifest_version": 2,
