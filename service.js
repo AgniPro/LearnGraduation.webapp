@@ -4,6 +4,8 @@ var urlsToCache = [
 	'https://learngraduation.blogspot.com/',
 	'https://1.bp.blogspot.com/-tdKcjuPBzzk/YKO4BVVNIFI/AAAAAAAACXM/ZcW2I4Pr_701MB4J-4HDj8p9uo56Srn8gCLcBGAsYHQ/s250/learngraduationlogo.webp',
 	'https://1.bp.blogspot.com/-tdKcjuPBzzk/YKO4BVVNIFI/AAAAAAAACXM/ZcW2I4Pr_701MB4J-4HDj8p9uo56Srn8gCLcBGAsYHQ/s250/learngraduationlogo.webp',
+	'https://learngraduation.blogspot.com/p/about-me.html',
+	'https://learngraduation.blogspot.com/p/contact.html',
 ];
 var urlsNotToCache = [
 ];
