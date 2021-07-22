@@ -24,11 +24,10 @@
                        ],
   "background": {
     "service_worker": "background.js"
-  }
-
-	"applications": {
-		"gecko": {
-			"id": "agniprotech@gmail.com"
+  },
+"applications": {
+	"gecko": {
+		"id": "agniprotech@gmail.com"
 		}
 	}
 }
