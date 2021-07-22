@@ -17,11 +17,11 @@
 		}
 	],
 	"permissions": [
-    "activeTab",
-    "scripting"
-  ],
+                    "activeTab",
+                    "scripting"
+                       ],
   "background": {
-    "service_worker": "service.js"
+    "service_worker": "background.js"
   }
 	"manifest_version": 3,
 	"version": "0.1",
