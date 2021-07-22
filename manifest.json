@@ -1,5 +1,7 @@
 {
 	"author": "AgniPro",
+	"manifest_version": 3,
+	"version": "0.1",
 	"name": "LearnGraduation",
 	"short_name": "LearnGraduation",
 	"description": "Here You will get all the required learning materials of graduation .In whatever subject you want",
@@ -23,8 +25,7 @@
   "background": {
     "service_worker": "background.js"
   }
-	"manifest_version": 3,
-	"version": "0.1",
+
 	"applications": {
 		"gecko": {
 			"id": "agniprotech@gmail.com"
