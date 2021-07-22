@@ -16,6 +16,13 @@
 			"type": "image/png"
 		}
 	],
+	"permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "service.js"
+  }
 	"manifest_version": 3,
 	"version": "0.1",
 	"applications": {
