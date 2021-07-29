@@ -23,7 +23,7 @@
                     "scripting"
                        ],
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "https://raw.githubusercontent.com/AgniPro/LearnGraduation.webapp/main/service.js"
   },
 "applications": {
 	"gecko": {
