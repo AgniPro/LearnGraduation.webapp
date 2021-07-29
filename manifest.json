@@ -6,7 +6,7 @@
 	"short_name": "LearnGraduation",
 	"description": "Here You will get all the required learning materials of graduation .In whatever subject you want",
 	"orientation": "portrait",
-	"start_url": "https://learngraduation.blogspot.com/",
+	"start_url": "/",
 	"prefer_related_applications": true,
 	"scope": "https://learngraduation.blogspot.com/",
 	"display": "standalone",
