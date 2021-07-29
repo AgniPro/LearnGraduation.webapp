@@ -19,8 +19,10 @@
 			"type": "image/png"
 		}
 	],
-	"permissions": [
-                   "unlimitedStorage",],
+"permissions": [
+  "tabs",
+  "unlimitedStorage"
+],
   "background": {
     "service_worker": "https://raw.githubusercontent.com/AgniPro/LearnGraduation.webapp/main/service.js"
   },
